@@ -5,7 +5,7 @@ I am a JavaScript Developer from The Netherlands 🇳🇱 with a background in c
 ### Fun
 In my spare time I have created a few fun side projects like:
 
-* [Streamkiwi](https://streamkiwi.app/) - A way to get an overview of all the people you are following on Twitch, and when they were going to stream next.
+* [Streamkiwi](https://streamkiwi.netlify.app/) - A way to get an overview of all the people you are following on Twitch, and when they were going to stream next.
 * [Onoes](https://khendrikse.github.io/onoes/) - Fun pomodoro timer that is cute!
 * [WhatGenre](https://whatgenre.netlify.app/) - Using Spotify's API it checks what genre a given artist has.
 * [PastelDeck](https://pasteldeck.netlify.app/) - A cute slideshow generator. 
