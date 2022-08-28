@@ -6,7 +6,7 @@ I am a JavaScript Developer from The Netherlands 🇳🇱 with a background in c
 In my spare time I have created a few fun side projects like:
 
 * [Streamkiwi](https://streamkiwi.netlify.app/) - A way to get an overview of all the people you are following on Twitch, and when they were going to stream next.
-* [Onoes](https://khendrikse.github.io/onoes/) - Fun pomodoro timer that is cute!
+* [Onoes](https://onoes.netlify.app/) - Fun pomodoro timer that is cute!
 * [WhatGenre](https://whatgenre.netlify.app/) - Using Spotify's API it checks what genre a given artist has.
 * [PastelDeck](https://pasteldeck.netlify.app/) - A cute slideshow generator. 
 * [Spotify to Slack](https://github.com/khendrikse/spotify-to-slack) - Inspired by msn statusses from back in the day. You can run it locally to sync the song you're listening to on Spotify with your Slack status.
